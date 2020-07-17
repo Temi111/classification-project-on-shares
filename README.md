@@ -10,3 +10,15 @@ Mashable (www.mashable.com) --is a global, multi-platform media and entertainmen
 
 #  BUSINESS BENEFITS
 Mashable’s entire business is dependent on popularity of articles. With accurate prediction of shares, company can choose which articles to publish hence driving higher user engagement and profits.  Rough estimate is 1% increase in engagement time (minutes) increases profit by up to 5%
+
+# Computer requirement to run the codes. 
+install the necceary modules 
+pip install pandas,numpy,seaborn,matplotlib 
+the functions needed a computer with a higher processor before it can run 
+
+# logic of the project
+1. Look for the 50% percentile and input 1 or 0
+2. Fit it to different classifiers 
+3. Remove some features and use Standardscaller on the X variable
+4. fit it the the classifiers 
+
